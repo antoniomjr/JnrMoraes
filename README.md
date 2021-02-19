@@ -3,7 +3,7 @@
 
 I'm a guy who is making a transition area to development
 
-## What do I do?
+## What do I do? 🤟🏻
 Nowadays I'm a intern developer at CI&T Global Digital Specialists.
 
 ## Which technologies am I learning and using? :construction_worker:
