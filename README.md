@@ -1,4 +1,5 @@
-# Antonio Roberto de Moraes Junior aka Junior Moraes  [![Linkedin Badge](https://img.shields.io/badge/-Junior%20Moraes-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moraes-junior/)](https://www.linkedin.com/in/moraes-junior/)
+[![Linkedin Badge](https://img.shields.io/badge/-Junior%20Moraes-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moraes-junior/)](https://www.linkedin.com/in/moraes-junior/)
+# Antonio Roberto de Moraes Junior aka Junior Moraes  
  
 ## What do I do? 
 A tattoo artist becoming a developer! 🤟🏻
