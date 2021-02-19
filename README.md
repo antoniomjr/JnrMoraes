@@ -1,9 +1,12 @@
-# Antonio Roberto de Moraes Junior aka Junior Moraes
+# Antonio Roberto de Moraes Junior aka Junior Moraes 
    [![Linkedin Badge](https://img.shields.io/badge/-Junior%20Moraes-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moraes-junior/)](https://www.linkedin.com/in/moraes-junior/)
 
 I'm a guy who is making a transition area to development
 
-## What do I do? 🤟🏻
+## What do I do? 
+A tattoo artist becoming a developer! 🤟🏻
+
+## Where I'm now?
 Nowadays I'm a intern developer at CI&T Global Digital Specialists.
 
 ## Which technologies am I learning and using? :construction_worker:
