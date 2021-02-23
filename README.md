@@ -1,6 +1,3 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Junior%20Moraes-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moraes-junior/)](https://www.linkedin.com/in/moraes-junior/) <a href="mailto:contatomoraesjr@gmail.com">
-<img align="right" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-green"/>
-</a>
 
 # Antonio Roberto de Moraes Junior aka Junior Moraes  
  
@@ -24,4 +21,9 @@ I am studing to be a **FullStack Developer** so that I'm learning more about bac
 As you can see nowadays I'm more focused on the backend after focusing on the front.
 
 
+## Social networks: :busts_in_silhouette:
 
+<a href="https://www.linkedin.com/in/moraes-junior/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/juniormoraes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:contatomoraesjr@gmail.com"><img align="right" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-green"/>
+</a>
