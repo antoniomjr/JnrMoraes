@@ -9,7 +9,10 @@ Nowadays I'm a intern developer at CI&T Global Digital Specialists.
 
 ## Which technologies am I learning and using? :construction_worker:
 - Java 
+- .Net
 - Spring
+- Angular
+- Typescript
 - Javascript
 - Node.JS
 - Html
