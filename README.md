@@ -2,10 +2,10 @@
 # Antonio Roberto de Moraes Junior aka Junior Moraes  
  
 ## What do I do? 
-A tattoo artist becoming a developer! 🤟🏻
+Developer and tattoo artist as hoby! 🤟🏻
 
 ## Where I'm now?
-Nowadays I'm a intern developer at CI&T Global Digital Specialists.
+Nowadays I'm developer at CI&T Global Digital Specialists as a full stack developer.
 
 ## Which technologies am I learning and using? :construction_worker:
 - Java 
@@ -21,7 +21,7 @@ Nowadays I'm a intern developer at CI&T Global Digital Specialists.
 ## What I want to do? 🚀
 I am studing to be a **FullStack Developer** so that I'm learning more about back-end with [AlgaWorks](https://www.algaworks.com/ "Algaworks") and [Cod3r](https://www.cod3r.com.br/ "Cod3r"), front-end also Algawroks, Cod3r and [RocketSeat](https://rocketseat.com.br/ "RocketSeat").
 
-As you can see nowadays I'm more focused on the backend after focusing on the front.
+As you can see nowadays I'm more focused on full stack .Net/Angular.
 
 
 ## Social networks: :busts_in_silhouette:
